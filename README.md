@@ -17,3 +17,8 @@ This project performs exploratory data analysis using Python.
 ## Files
 analysis.py – Python code for data analysis  
 data.csv – dataset used for analysis
+## Output
+
+The project generates:
+- Scatter plot between sepal length and petal length
+- Bar chart showing species distribution
